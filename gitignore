@@ -1,0 +1,7 @@
+# Data and results are not tracked
+data/
+results/
+*.rds
+*.RData
+*.Rhistory
+.Rproj.user/
