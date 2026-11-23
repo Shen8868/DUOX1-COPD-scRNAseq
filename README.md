@@ -2,7 +2,7 @@
 
 Analysis code for the single-cell RNA-seq part of:
 
-> *Defective epithelial cell clearance drives emphysema and distinct pulmonary vascular phenotype in COPD.* Edma Loku1,*, Cheng-Yu Wu1,*, Vinita Sharma1, Chudamani Nuguri1, Anis Cilic1, Vidya Lakshmi1, Dana Cojocaru1, Henrike Tries1, Zixiong Shen1, Simone Kraut1, Baktybek Kojonazarov1, Marek Bartkuhn1, Andreas Guenther1, Claudia F Garcia Castro1, Werner Seeger1, Marija Gredic1, Hossein A Ghofrani1, Natascha Sommer1, Norbert Weissmann1 and Stefan Hadzic1,#. iScience (2026). DOI: to be added
+> *Defective epithelial cell clearance drives emphysema and distinct pulmonary vascular phenotype in COPD.* Edma Loku1,*, Cheng-Yu Wu1,*, Vinita Sharma1, Chudamani Nuguri1, Anis Cilic1, Vidya Lakshmi1, Dana Cojocaru1, Henrike Tries1, Zixiong Shen1, Simone Kraut1, Baktybek Kojonazarov1, Marek Bartkuhn1, Andreas Guenther1, Claudia F Garcia Castro1, Werner Seeger1, Marija Gredic1, Hossein A Ghofrani1, Natascha Sommer1, Norbert Weissmann1 and Stefan Hadzic1,#. iScience (2026).
 
 The scripts integrate four public human lung scRNA-seq datasets, annotate
 epithelial cell types, and compare DUOX1/DUOXA1 double-positive
